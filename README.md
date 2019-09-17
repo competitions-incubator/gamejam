@@ -1,7 +1,17 @@
 # gamejam
 racket gamejam
 
-Writing up a gamejam should be pretty simple; it needs a start date and an end date, prizes and judges, the goal is engagement with the community so structuring it to allow a wide range of skills and skill levels to participate is important. Starting suggestion; run it for November, call for volunteer judges, but also do a community choice survey at the end. A theme seems to be a common; maybe technical theme e.g. ‘bots’ or ‘retro’. What do you think?
+Writing up a gamejam should be pretty simple; it needs
+* a start and end date
+* prizes  
+* judges
 
+the goal is engagement with the community so structuring it to allow a wide range of skills and skill levels to participate is important. 
 
-I was thinking of bots because they can be very simple or sophisticated - supporting a wide range of skill levels having some fun
+Starting suggestion; 
+1. run it for November, 
+2. call for volunteer judges, 
+3. do a community choice survey at the end. 
+4. Choose a theme e.g. ‘bots’ or ‘retro’. What do you think?
+
+I was thinking of bots because they can be very simple or sophisticated - supporting a wide range of skill levels having some fun.
