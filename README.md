@@ -65,3 +65,6 @@ From @samdphillips
 > Here's one that I built last fall.  
 > - Sourecode: https://github.com/samdphillips/lgj_2018_10/tree/lgj_submission
 > - Itch.io page: https://samdphillips.itch.io/slimesteroids
+
+Also https://github.com/jeapostrophe/gamejam-2019
+
