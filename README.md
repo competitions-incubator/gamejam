@@ -23,3 +23,13 @@ I was thinking of bots because they can be very simple or sophisticated - suppor
 
 <https://github.com/racket/racket/wiki/Game-Development>
 
+# suggestions
+
+> For a "bots" theme I would read that to mean your game should have bots, robots, cyborgs, Terminators, automatons, Frankenstein's monsters, etc. in someway in your game. 
+
+> Examples:
+- Escape from Killer Robots (a Roguelike where you are chased in a maze by Killer Robots)
+- Robot Finds Kitten (The player, a Robot, must discover items in a room that are not Kitten.  Game ends when Kitten is found.)
+- Will CX-437 Ever Find Love? (a visual novel about a steam automaton in Olde Victorian Steampunk Tymes.)
+- Roboblocks (a falling block puzzle where the falling blocks are robot parts and the goal is to match parts to make robots)
+- ELIZA on PTO (what happens when Weizenbaum's creation goes on vacation)
