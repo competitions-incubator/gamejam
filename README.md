@@ -22,7 +22,7 @@ I was thinking of bots because they can be very simple or sophisticated - suppor
 
 Gamejam guidance: <https://itch.io/docs/creators/game-jams>
 
-Gamejam platform: itch.ip
+Gamejam platform: itch.io
 
 Racket game creation resources: <https://github.com/racket/racket/wiki/Game-Development>
 
