@@ -59,3 +59,7 @@ From @euhmeuh
 > Hello everyone! I made a Racket program for the 2018 edition of the Lisp Game Jam (https://itch.io/jam/lisp-game-jam-2018).
 Feel free to check it out and get inspired: https://github.com/euhmeuh/wasm-adventure
 Demo here: https://euhmeuh.github.io/wasm-adventure/
+
+From @samdphillips
+
+> Here's one that I built last fall.  https://github.com/samdphillips/lgj_2018_10
