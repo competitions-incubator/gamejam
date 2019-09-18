@@ -1,24 +1,23 @@
-# gamejam
-racket gamejam
+# Gamejam
 
-Writing up a gamejam should be pretty simple; it needs
+So you want to host a Racket gamejam? Follow these steps to get started!
+
+Writing up a gamejam should be pretty simple; it needs:
 * a start and end date - not too close to lisp gamejam (good tip from @samdphillips)
-* resources for game dev on racket - see below
-* prizes  
-* judges
+* a theme
+* some game resources to kickstart
+* judges & criteria
+* prizes
 
-the goal is engagement with the community so structuring it to allow a wide range of skills and skill levels to participate is important. 
+The goal is to create engagement within the community, so take care to keep the bar low as to allow a wide range of skills and skill levels to participate.
 
-Starting suggestion; 
+Starting suggestion:
 1. run it for November, 
 2. call for volunteer judges, 
 3. do a community choice survey at the end. 
 4. Choose a theme e.g. ‘bots’ or ‘retro’. What do you think?
 
-I was thinking of bots because they can be very simple or sophisticated - supporting a wide range of skill levels having some fun.
-
-
-# resources
+# Resources
 
 Gamejam guidance: <https://itch.io/docs/creators/game-jams>
 
@@ -39,6 +38,8 @@ avoiding a few obstacles.
 
 
 # ideas 
+
+> I was thinking of bots because they can be very simple or sophisticated - supporting a wide range of skill levels having some fun.
 
 > For a "bots" theme I would read that to mean your game should have bots, robots, cyborgs, Terminators, automatons, Frankenstein's monsters, etc. in someway in your game. 
 
