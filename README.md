@@ -16,3 +16,10 @@ Starting suggestion;
 4. Choose a theme e.g. ‘bots’ or ‘retro’. What do you think?
 
 I was thinking of bots because they can be very simple or sophisticated - supporting a wide range of skill levels having some fun.
+
+
+# resources
+
+
+<https://github.com/racket/racket/wiki/Game-Development>
+
