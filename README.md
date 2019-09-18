@@ -9,7 +9,7 @@ Writing up a gamejam should be pretty simple; it needs:
 * judges & criteria
 * prizes
 
-Question: How to engourage teams?
+Question: How to encourage teams?
 
 The goal is to create engagement within the community, so take care to keep the bar low as to allow a wide range of skills and skill levels to participate.
 
@@ -47,7 +47,7 @@ avoiding a few obstacles.
 
 > Examples:
 - Escape from Killer Robots (a Roguelike where you are chased in a maze by Killer Robots)
-- Robot Finds Kitten (The player, a Robot, must discover items in a room that are not Kitten.  Game ends when Kitten is found.)
+- [Robot Finds Kitten](http://robotfindskitten.org/) (The player, a Robot, must discover items in a room that are not Kitten.  Game ends when Kitten is found.)
 - Will CX-437 Ever Find Love? (a visual novel about a steam automaton in Olde Victorian Steampunk Tymes.)
 - Roboblocks (a falling block puzzle where the falling blocks are robot parts and the goal is to match parts to make robots)
 - ELIZA on PTO (what happens when Weizenbaum's creation goes on vacation)
@@ -62,4 +62,6 @@ Demo here: https://euhmeuh.github.io/wasm-adventure/
 
 From @samdphillips
 
-> Here's one that I built last fall.  https://github.com/samdphillips/lgj_2018_10
+> Here's one that I built last fall.  
+> Sourecode: https://github.com/samdphillips/lgj_2018_10/tree/lgj_submission
+> Itch.io page: https://samdphillips.itch.io/slimesteroids
