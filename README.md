@@ -2,8 +2,8 @@
 racket gamejam
 
 Writing up a gamejam should be pretty simple; it needs
-* a start and end date
-* resources for game dev on racket
+* a start and end date - not too close to lisp gamejam (good tip from @samdphillips)
+* resources for game dev on racket - see below
 * prizes  
 * judges
 
@@ -25,6 +25,13 @@ Gamejam guidance: <https://itch.io/docs/creators/game-jams>
 Gamejam platform: itch.io
 
 Racket game creation resources: <https://github.com/racket/racket/wiki/Game-Development>
+
+A game framework: 
+
+From @soegaard
+
+>
+
 
 # ideas 
 
