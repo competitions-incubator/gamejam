@@ -9,6 +9,8 @@ Writing up a gamejam should be pretty simple; it needs:
 * judges & criteria
 * prizes
 
+Question: How to engourage teams?
+
 The goal is to create engagement within the community, so take care to keep the bar low as to allow a wide range of skills and skill levels to participate.
 
 Starting suggestion:
