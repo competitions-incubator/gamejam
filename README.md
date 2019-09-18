@@ -3,6 +3,7 @@ racket gamejam
 
 Writing up a gamejam should be pretty simple; it needs
 * a start and end date
+* resources for game dev on racket
 * prizes  
 * judges
 
