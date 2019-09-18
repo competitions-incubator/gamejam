@@ -30,7 +30,10 @@ A game framework:
 
 From @soegaard
 
->
+> I have for a long time had the idea to make a "game framework" for making (similar) levels, and then let users implement their own levels.
+> Something very simple - like the old commodore 64 game Snoopy.
+Levels were single screen. The objective was go get from the left side to the right side
+avoiding a few obstacles.
 
 
 # ideas 
@@ -51,4 +54,3 @@ From @euhmeuh
 > Hello everyone! I made a Racket program for the 2018 edition of the Lisp Game Jam (https://itch.io/jam/lisp-game-jam-2018).
 Feel free to check it out and get inspired: https://github.com/euhmeuh/wasm-adventure
 Demo here: https://euhmeuh.github.io/wasm-adventure/
-
