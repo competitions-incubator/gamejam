@@ -20,10 +20,13 @@ I was thinking of bots because they can be very simple or sophisticated - suppor
 
 # resources
 
+Gamejam guidance: <https://itch.io/docs/creators/game-jams>
 
-<https://github.com/racket/racket/wiki/Game-Development>
+Gamejam platform: itch.ip
 
-# suggestions
+Racket game creation resources: <https://github.com/racket/racket/wiki/Game-Development>
+
+# ideas 
 
 > For a "bots" theme I would read that to mean your game should have bots, robots, cyborgs, Terminators, automatons, Frankenstein's monsters, etc. in someway in your game. 
 
