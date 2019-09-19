@@ -1,23 +1,20 @@
 # Gamejam
 
-So you want to host a Racket gamejam? Follow these steps to get started!
+## Racket gamejam planning
 
-Writing up a gamejam should be pretty simple; it needs:
-* a start and end date - not too close to lisp gamejam (good tip from @samdphillips)
-* a theme
-* some game resources to kickstart
-* judges & criteria
-* prizes
+Plan to host a Racket gamejam:
 
-Question: How to encourage teams?
+Proposal:
+* Racket October Gamejam 
+* duration: 1-31 October 
+* Award categories: Best game, best team game, best team, best first game, best video demo, best first game by a new developer. Platform specific categories , best cross-platform, best game underage categories (junior/middle/high-school), best art, best puzzle, best shooter, best story, best game DSL, best level editor, best character editor, best UI graphical, best text UI, best roguelike, best procedural generation, best game AI, best game-balance, best multiplayer, best RPG, best 3D, best 2d, best retro. More categories may be added.
+* Awards have no monetary value, but this can change if sponsors come forward.
+* community choice awards 
 
-The goal is to create engagement within the community, so take care to keep the bar low as to allow a wide range of skills and skill levels to participate.
+Question: How to encourage teams? Team specific awards
 
-Starting suggestion:
-1. run it for November, 
-2. call for volunteer judges, 
-3. do a community choice survey at the end. 
-4. Choose a theme e.g. ‘bots’ or ‘retro’. What do you think?
+The goal is to create engagement within the community, awards will recognise contributions with a wide range of skills and skill levels to participate.
+
 
 # Resources
 
