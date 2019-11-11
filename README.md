@@ -1,12 +1,13 @@
-# Gamejam
+# Racket gamejam
 
-## Racket gamejam planning
+* in progress https://itch.io/jam/racket-2019-gamejam
+
+----
 
 Plan to host a Racket gamejam:
 
 Proposal:
-* Racket October Gamejam 
-* duration: 1-31 October 
+* Racket Gamejam 2019
 * Award categories: Best game, best team game, best team, best first game, best video demo, best first game by a new developer. Platform specific categories , best cross-platform, best game underage categories (junior/middle/high-school), best art, best puzzle, best shooter, best story, best game DSL, best level editor, best character editor, best UI graphical, best text UI, best roguelike, best procedural generation, best game AI, best game-balance, best multiplayer, best RPG, best 3D, best 2d, best retro. More categories may be added.
 * Awards have no monetary value, but this can change if sponsors come forward.
 * community choice awards 
